@@ -1,2 +1,6 @@
 # Barracuda-PoseNet-WebGL-Demo
-  A live WebGL demo for my Barracuda PoseNet Tutorial 
+ 
+Live Demo: https://cj-mills.github.io/Barracuda-PoseNet-WebGL-Demo/
+
+
+Project Source Code: https://github.com/cj-mills/Barracuda-PoseNet-Tutorial/tree/WebGL
